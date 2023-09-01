@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.header {
+    background-color: #122347;
+    color: #e6e1d9;
+    text-align: center;
+    padding: 1rem;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.flex-item {
+    flex: 1;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    min-width: 265px;
+}
+
+.footer { 
+    background-color: #122347; 
+    color: #fff; 
+    text-align: center; 
+    padding: 1rem; 
+    } 
+    
+.imagem1{
+    height: 250px;
+    text-align: center;
+}
+.imagem2{
+    height: 250px;
+    text-align: center;
+}
+.imagem3{
+    height: 250px;
+    text-align: center;
+}
+
